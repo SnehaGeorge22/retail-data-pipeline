@@ -1,0 +1,30 @@
+version: 2
+
+sources:
+  - name: raw
+    database: RETAIL_DWH
+    schema: RAW
+    tables:
+      - name: customers
+        columns:
+          - name: customer_id
+            tests:
+              - unique
+              - not_null
+      - name: products
+        columns:
+          - name: product_id
+            tests:
+              - unique
+              - not_null
+      - name: stores
+        columns:
+          - name: store_id
+            tests:
+              - unique
+              - not_null
+      - name: transactions
+        columns:
+          - name: transaction_id
+            tests:
+              - not_null
