@@ -9,8 +9,10 @@
 > A production-ready data engineering pipeline processing 788K+ retail transactions with modern data stack technologies.
 
 ## 📊 Dashboard Preview
-
+![Dashboard](/docs/outputs/trend_metrics.png)
+![Dashboard](/docs/outputs/customer_insights.png)
 ![Dashboard](/docs/outputs/performance_metrics.png)
+![Dashboard](/docs/outputs/KPI_metrics.png)
 
 ## 🎯 Project Overview
 
