@@ -10,7 +10,7 @@
 
 ## 📊 Dashboard Preview
 
-![Dashboard](docs/dashboard_screenshot.png)
+![Dashboard](docs/outputs/Customer Insights.png)
 
 ## 🎯 Project Overview
 
