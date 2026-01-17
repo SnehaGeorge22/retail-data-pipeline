@@ -10,7 +10,7 @@
 
 ## 📊 Dashboard Preview
 
-![Dashboard](docs/outputs/Customer Insights.png)
+![Dashboard](/docs/outputs/Customer Insights.png)
 
 ## 🎯 Project Overview
 
@@ -30,7 +30,7 @@ This end-to-end data pipeline demonstrates:
 
 ## 🏗️ Architecture
 
-![Architecture](docs/architecture.png)
+![Architecture](/docs/architecture/Architecture_diagram.png)
 
 ### Data Flow
 1. **Python** generates synthetic retail data (customers, products, stores, transactions)
@@ -53,7 +53,7 @@ This end-to-end data pipeline demonstrates:
 
 ## 📊 Data Model
 
-![Data Model](docs/data_model.png)
+![Data Model](docs/datamodel/Data_model.png)
 
 ### Dimensional Model
 - **Fact Table**: `fact_sales` (788K rows)
